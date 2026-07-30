@@ -1,4 +1,4 @@
-# AutoSpec QA — Quality Assurance & Testing Strategy
+# AutoSpec QA  Quality Assurance & Testing Strategy
 
 This document details the comprehensive Quality Assurance (QA) strategy, test coverage framework, and test case specifications engineered for **AutoSpec QA: AI-Powered Test Suite Synthesizer & Defect Tracker**.
 
